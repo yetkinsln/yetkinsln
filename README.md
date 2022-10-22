@@ -13,7 +13,4 @@ Skills: JAVA / C#  / JS / HTML / CSS
 
 
 
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yetkinsln)](https://github.com/anuraghazra/github-readme-stats)

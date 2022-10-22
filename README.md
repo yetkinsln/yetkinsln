@@ -5,13 +5,13 @@
 
 I'm Yetkin from Turkey, and I do press keyboard keys randomly and it happens :)
 Peoples say computer engineers are asocial and lazy, on the contrary, I am a determined athlete and professional basketball player.
-##Skills and Experience
-*👨🏻‍💻Java
-*🎴C#
-*👨🏻‍🏫JavaScript
-*📋HTML
-*🖼️CSS
-##______________________________________________________________________________
+## Skills and Experience
+* 👨🏻‍💻Java
+* 🎴C#
+* 👨🏻‍🏫JavaScript
+* 📋HTML
+* 🖼️CSS
+## ______________________________________________________________________________
 <img src="https://media0.giphy.com/media/YlPeYXasYEPpC/giphy.gif?cid=ecf05e47bs7gm6dpl2bjpevv6w5qba2mhcux3e8s7r92fejv&rid=giphy.gif&ct=g" width="256"/>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yetkinsln)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yetkin-aslan-a96669225//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yetkinsln/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yetkindurden)  
 

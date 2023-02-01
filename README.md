@@ -1,5 +1,4 @@
-![Algorithm Development and Deep Learning](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.tWEKK534uMujgXkF5cLOjAHaD5%26pid%3DApi&f=1&ipt=b3c2daed10d39c3251e4858b8ed2d906d1ab3da1bec80e8825592fd2f0e33ac0&ipo=images)
-
+![Algorithm Development and Deep Learning](https://media.tenor.com/WN_K3SA1pbwAAAAM/duck-tales-teaser.gif)
 ### Yetkin Aslan
 #### Algorithm Development and Deep Learning
 

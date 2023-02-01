@@ -7,7 +7,7 @@ I'm Yetkin from Turkey, and I do press keyboard keys randomly and it happens :)
 Peoples say computer engineers are asocial and lazy, on the contrary, I am a determined athlete and professional basketball player.
 ## Skills and Experience
 * 👨🏻‍💻Java
-* 🐍Python(Pandas, Numpy, Matplotlib, Scikit-Learn)
+* 🐍Python(Pandas, Numpy, Matplotlib, Scikit-Learn, Tensorflow, Keras)
 * 🎴C#
 * 👨🏻‍🏫JavaScript
 * 📋HTML

@@ -3,7 +3,7 @@
 #### Algorithm Development and Deep Learning
 
 <h1 align="center">Hey, what's Up! I'm Yetkin 🦁</h1>
-<h3 align="center">I am Computer Engineering student, developing artificial intelligence, the founder of the Duffy Luftwaffe🦆.</h3>
+<h3 align="center">I am Computer Engineering student, developing artificial intelligence</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yetkinsln" alt="yetkinsln" /></a> </p>
 

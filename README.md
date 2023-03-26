@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning and Python.**
 
-- 📫 How to reach me **duffyluftwaffe@gmail.com**
+- 📫 How to reach me **yetkinaslan7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

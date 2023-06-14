@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/yetkinlion" target="blank"><img src="https://img.shields.io/twitter/follow/yetkinlion?logo=twitter&style=for-the-badge" alt="yetkinlion" /></a> </p>
 
-- 💬 Ask me about **AI, ML, Deep Learning, Algorithm Problems and All About Programming Language**
+- 💬 Ask me about **AI, ML, Deep Learning, Algorithm Problems and All About Programming Languages.**
 
 - 📫 How to reach me **yetkinaslan7@gmail.com**
 

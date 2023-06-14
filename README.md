@@ -1,9 +1,9 @@
 ![Algorithm Development and Deep Learning](https://media.tenor.com/WN_K3SA1pbwAAAAM/duck-tales-teaser.gif)
 ### Yetkin Aslan
-#### Algorithm Development and Deep Learning
+#### Algorithm Development, AI, ML, Deep Learning
 
-<h1 align="center">Hey, what's Up! I'm Yetkin 🦁</h1>
-<h3 align="center">I am Computer Engineering student, developing artificial intelligence</h3>
+<h1 align="center">I'm Yetkin ASLAN</h1>
+<h3 align="center">I am a computer engineering student at Pamukkale University, specializing in AI, ML, and Deep Learning.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yetkinsln" alt="yetkinsln" /></a> </p>
 

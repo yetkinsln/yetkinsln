@@ -122,9 +122,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/yetkinsln/yetkinsln/output/snake.svg" alt="Snake animation" />
-
-###

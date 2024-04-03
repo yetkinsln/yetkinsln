@@ -1,4 +1,4 @@
-<!-- Header -->
+<!-- Header with Animation -->
 <div align="center">
   <img height="200" src="https://media4.giphy.com/media/ZJh42VKmeQ2yY/giphy.gif?cid=ecf05e47uq4uu6edkcmbryi7lm3e41yjuknqh8ggxr7mqfyj&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Yetkin's GIF" />
   <h2>Hello, I'm Yetkin.</h2>
@@ -6,7 +6,7 @@
   <p>Artificial Intelligence - Machine Learning - Deep Learning - Data Science</p>
 </div>
 
-<!-- Development Kit -->
+<!-- Development Kit with Animation -->
 <h4>Development Kit:</h4>
 <p>AI, ML, DL, DS</p>
 
@@ -19,7 +19,7 @@
   <!-- Add other development kit icons here -->
 </div>
 
-<!-- Other Tools & Languages -->
+<!-- Other Tools & Languages with Animation -->
 <h4>Other Tools & Languages</h4>
 
 <div align="center">
@@ -30,7 +30,7 @@
   <!-- Add other tools and languages icons here -->
 </div>
 
-<!-- Social Media Accounts -->
+<!-- Social Media Accounts with Animation -->
 <h4>My Social Media Accounts:</h4>
 
 <div align="center">

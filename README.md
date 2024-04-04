@@ -12,6 +12,9 @@
 
 <p align="left">Turkey, Istanbul</p>
 
+<h3 align="center" style = "color:red;"> Rigel Projects</h3>
+<a href = "http://rigelpawai.pythonanywhere.com/">PAW AI</a>
+
 ###
 
 <p align="center">Artificial Intelligence - Machine Learning - Deep Learning - Data Science</p>

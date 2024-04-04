@@ -12,8 +12,12 @@
 
 <p align="left">Turkey, Istanbul</p>
 
-<h3 align="center" style = "color:red;"> Rigel Projects</h3>
-<a href = "http://rigelpawai.pythonanywhere.com/">PAW AI</a>
+<h3 align="center" style = "color:red;"> My Projects</h3>
+<ul align = "center">
+  <li>
+    <a href = "http://rigelpawai.pythonanywhere.com/">PAW AI</a>
+  </li>
+</ul>
 
 ###
 

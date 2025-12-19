@@ -4,20 +4,7 @@
   <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com
-      ?font=Fira+Code
-      &weight=700
-      &size=32
-      &duration=3000
-      &pause=1200
-      &color=00FFFF
-      &center=true
-      &vCenter=true
-      &width=700
-      &lines=YETKIN+ASLAN;AI+ENGINEER+%7C+MACHINE+LEARNING+SPECIALIST"
-      alt="Typing SVG"
-    />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=0CE8F7&center=true&vCenter=true&width=600&lines=YETKIN+ASLAN;AI+ENGINEER+%7C+ML+SPECIALIST" alt="Typing SVG" />
   </a>
 </div>
 

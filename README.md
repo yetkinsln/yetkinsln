@@ -1,6 +1,5 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/0c/63/84/0c6384958240823a85a77ea88ab894d5.gif"/>
 
   <br><br>
 

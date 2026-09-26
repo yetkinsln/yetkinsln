@@ -24,7 +24,7 @@
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p>
-  <img src="https://img.shields.io/badge/Based%20in-Istanbul,%20Turkey-00FFFF?style=for-the-badge&logo=google-maps&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/Based%20in-Denizli,%20Turkey-00FFFF?style=for-the-badge&logo=google-maps&labelColor=111111"/>
 </p>
 
 <p>
